@@ -1,5 +1,3 @@
-[RadMe.md](https://github.com/user-attachments/files/22633841/RadMe.md
-
 # Analisi Semantica e Classificazione di Professioni
 
 Questo script Python è uno strumento di analisi dati progettato per elaborare un elenco di professioni da un file Excel. Esegue diverse operazioni, tra cui la pulizia dei dati, la classificazione delle professioni (gestionali vs. operative), l'analisi di correlazione semantica con parole chiave predefinite e la generazione di report e grafici di visualizzazione interattivi.
